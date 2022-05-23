@@ -57,7 +57,7 @@ jobs:
         with:
           push: true
           no-cache: true
-          tags: markoffdev/yatube:latest
+          tags: poizzzon/infra_actions:latest
 
   deploy:
     runs-on: ubuntu-latest
